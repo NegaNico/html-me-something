@@ -1,0 +1,17 @@
+p {
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20x;
+    margin-left: 20px;
+    text-align: center;
+}
+
+figure {
+    text-align: center;    
+}
+
+.title {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 40px;
+  }
